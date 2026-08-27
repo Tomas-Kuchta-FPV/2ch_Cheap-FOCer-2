@@ -5753,8 +5753,7 @@
 			"AoFAIBDaif8HbnZMXreb82wAAAAASUVORK5CYII="
 		)
 	)
-	(global_label "PB12"
-		(shape input)
+	  (label "PB12"
 		(at 114.3 102.87 180)
 		(effects
 			(font
@@ -5775,8 +5774,7 @@
 			)
 		)
 	)
-	(global_label "PB3"
-		(shape input)
+	  (label "PB3"
 		(at 177.8 83.82 0)
 		(effects
 			(font
@@ -5797,8 +5795,7 @@
 			)
 		)
 	)
-	(global_label "PC13"
-		(shape input)
+	  (label "PC13"
 		(at 242.57 130.81 180)
 		(effects
 			(font
@@ -5819,8 +5816,7 @@
 			)
 		)
 	)
-	(global_label "SWDIO"
-		(shape input)
+	  (label "SWDIO"
 		(at 247.65 81.28 180)
 		(effects
 			(font
@@ -5841,8 +5837,7 @@
 			)
 		)
 	)
-	(global_label "PD2"
-		(shape input)
+	  (label "PD2"
 		(at 242.57 133.35 180)
 		(effects
 			(font
@@ -5863,8 +5858,7 @@
 			)
 		)
 	)
-	(global_label "PC15"
-		(shape input)
+	  (label "PC15"
 		(at 177.8 46.99 0)
 		(effects
 			(font
@@ -5885,8 +5879,7 @@
 			)
 		)
 	)
-	(global_label "PC15"
-		(shape input)
+	  (label "PC15"
 		(at 255.27 125.73 0)
 		(effects
 			(font
@@ -5907,8 +5900,7 @@
 			)
 		)
 	)
-	(global_label "PB4"
-		(shape input)
+	  (label "PB4"
 		(at 177.8 86.36 0)
 		(effects
 			(font
@@ -5929,8 +5921,7 @@
 			)
 		)
 	)
-	(global_label "PB2"
-		(shape input)
+	  (label "PB2"
 		(at 180.34 62.23 0)
 		(effects
 			(font
@@ -5951,8 +5942,7 @@
 			)
 		)
 	)
-	(global_label "SWCLK"
-		(shape input)
+	  (label "SWCLK"
 		(at 247.65 76.2 180)
 		(effects
 			(font
@@ -5973,8 +5963,7 @@
 			)
 		)
 	)
-	(global_label "PD2"
-		(shape input)
+	  (label "PD2"
 		(at 114.3 153.67 180)
 		(effects
 			(font
@@ -5995,8 +5984,7 @@
 			)
 		)
 	)
-	(global_label "PC14"
-		(shape input)
+	  (label "PC14"
 		(at 255.27 123.19 0)
 		(effects
 			(font
@@ -6017,8 +6005,7 @@
 			)
 		)
 	)
-	(global_label "PB3"
-		(shape input)
+	  (label "PB3"
 		(at 255.27 130.81 0)
 		(effects
 			(font
@@ -6039,8 +6026,7 @@
 			)
 		)
 	)
-	(global_label "PC14"
-		(shape input)
+	  (label "PC14"
 		(at 177.8 44.45 0)
 		(effects
 			(font
@@ -6061,8 +6047,7 @@
 			)
 		)
 	)
-	(global_label "NRST"
-		(shape input)
+	  (label "NRST"
 		(at 247.65 83.82 180)
 		(effects
 			(font
@@ -6083,8 +6068,7 @@
 			)
 		)
 	)
-	(global_label "SWCLK"
-		(shape input)
+	  (label "SWCLK"
 		(at 177.8 78.74 0)
 		(effects
 			(font
@@ -6105,8 +6089,7 @@
 			)
 		)
 	)
-	(global_label "NRST"
-		(shape input)
+	  (label "NRST"
 		(at 204.47 69.85 0)
 		(effects
 			(font
@@ -6127,8 +6110,7 @@
 			)
 		)
 	)
-	(global_label "PA15"
-		(shape input)
+	  (label "PA15"
 		(at 187.96 81.28 0)
 		(effects
 			(font
@@ -6149,8 +6131,7 @@
 			)
 		)
 	)
-	(global_label "PB4"
-		(shape input)
+	  (label "PB4"
 		(at 255.27 133.35 0)
 		(effects
 			(font
@@ -6171,8 +6152,7 @@
 			)
 		)
 	)
-	(global_label "PC13"
-		(shape input)
+	  (label "PC13"
 		(at 114.3 148.59 180)
 		(effects
 			(font
@@ -6193,8 +6173,7 @@
 			)
 		)
 	)
-	(global_label "PA15"
-		(shape input)
+	  (label "PA15"
 		(at 255.27 128.27 0)
 		(effects
 			(font
@@ -6215,8 +6194,7 @@
 			)
 		)
 	)
-	(global_label "PC5"
-		(shape input)
+	  (label "PC5"
 		(at 242.57 128.27 180)
 		(effects
 			(font
@@ -6237,8 +6215,7 @@
 			)
 		)
 	)
-	(global_label "PB12"
-		(shape input)
+	  (label "PB12"
 		(at 242.57 125.73 180)
 		(effects
 			(font
@@ -6259,8 +6236,7 @@
 			)
 		)
 	)
-	(global_label "SWDIO"
-		(shape input)
+	  (label "SWDIO"
 		(at 177.8 76.2 0)
 		(effects
 			(font
@@ -6281,8 +6257,7 @@
 			)
 		)
 	)
-	(global_label "PB2"
-		(shape input)
+	  (label "PB2"
 		(at 242.57 123.19 180)
 		(effects
 			(font
@@ -6303,8 +6278,7 @@
 			)
 		)
 	)
-	(global_label "PC5"
-		(shape input)
+	  (label "PC5"
 		(at 114.3 128.27 180)
 		(effects
 			(font

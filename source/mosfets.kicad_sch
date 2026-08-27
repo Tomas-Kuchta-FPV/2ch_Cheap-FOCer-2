@@ -3203,8 +3203,7 @@
 		)
 		(uuid "ffe8f422-5716-4feb-b416-8740545ec00f")
 	)
-	(global_label "SNA"
-		(shape input)
+	  (label "SNA"
 		(at 81.28 129.54 180)
 		(effects
 			(font
@@ -3225,8 +3224,7 @@
 			)
 		)
 	)
-	(global_label "SPA"
-		(shape input)
+	  (label "SPA"
 		(at 81.28 139.7 180)
 		(effects
 			(font
@@ -3269,8 +3267,7 @@
 			)
 		)
 	)
-	(global_label "SPC"
-		(shape input)
+	  (label "SPC"
 		(at 214.63 142.24 180)
 		(effects
 			(font
@@ -3291,8 +3288,7 @@
 			)
 		)
 	)
-	(global_label "SNC"
-		(shape input)
+	  (label "SNC"
 		(at 214.63 132.08 180)
 		(effects
 			(font
@@ -3313,8 +3309,7 @@
 			)
 		)
 	)
-	(global_label "SNB"
-		(shape input)
+	  (label "SNB"
 		(at 149.86 130.81 180)
 		(effects
 			(font
@@ -3357,8 +3352,7 @@
 			)
 		)
 	)
-	(global_label "SPB"
-		(shape input)
+	  (label "SPB"
 		(at 149.86 142.24 180)
 		(effects
 			(font
