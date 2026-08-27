@@ -271,7 +271,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "0.9"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -1203,13 +1203,54 @@
       {
         "filename": "Cheap FOCer 2 60mm.kicad_sch",
         "name": "Cheap FOCer 2 60mm",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "8693461a-2b3c-456a-b5db-886cde102119"
       }
     ],
-    "used_designators": "X1-2,R1-144,Q1-12,#FLG1-4,#PWR1-192,C1-134,NEG3-4,F1-6,H1-20,USB1-2,J1-12,NT1-12,U1-12,D1-12,NTC1-2,L1-2,P1-10,POS1-2",
+    "used_designators": "#PWR1-192,#FLG1-4,D1-12,NTC1-2,U1-12,NT1-12,J1-12,USB1-2,POS1-2,R1-144,NEG3-4,C1-134,P1-10,L1-2,X1-2,H1-20,Q1-12,F1-6",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "8693461a-2b3c-456a-b5db-886cde102119",
+      "Cheap FOCer 2 60mm"
+    ],
+    [
+      "aa4c4802-65a8-4066-8aef-359cc7cd6f36",
+      "Channel A"
+    ],
+    [
+      "25d5aa74-deba-426e-918b-aa7dc23f6c06",
+      "CAN bus transceiver"
+    ],
+    [
+      "51c29e49-1ae5-454f-8fb1-37ca4987ad72",
+      "Filters"
+    ],
+    [
+      "d6083777-dc66-46a8-a5c8-66bbc6ef4f97",
+      "IMU"
+    ],
+    [
+      "e0abce7c-8334-41f1-bfb2-a36dae094a8b",
+      "MCU"
+    ],
+    [
+      "57c45327-d5fb-4897-b364-6ac28f59578a",
+      "Mosfet driver"
+    ],
+    [
+      "5508258d-3e40-4ebe-b696-638aab0a4418",
+      "NTC temp sensor"
+    ],
+    [
+      "eea0394b-e724-46dd-8ac2-4ed62ea8f8b5",
+      "Power MOSFETS"
+    ],
+    [
+      "d574c19b-35a7-4407-b203-808b94841d50",
+      "Channel B"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {

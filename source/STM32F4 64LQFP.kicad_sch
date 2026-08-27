@@ -6818,200 +6818,200 @@
 			)
 		)
 		(pin "1"
-			(uuid "1f12f0a0-90db-42db-ba0b-f102be8ab700")
+			(uuid "2049edc7-477e-4bab-9a8b-4ef07518ce22")
 		)
 		(pin "2"
-			(uuid "e47208ca-d49c-464c-a192-e38cd3e8a300")
+			(uuid "76bfc12e-2c93-44fc-8873-f37b03885b99")
 		)
 		(pin "3"
-			(uuid "0e7f7888-c233-4e4a-9310-7d64c42554d7")
+			(uuid "ea9166f8-e1cc-4958-b3f9-aa55e2cda2c0")
 		)
 		(pin "4"
-			(uuid "fdf5280b-0ecc-4fa3-92e3-a6953aa384da")
+			(uuid "a0b9dd0d-adb9-43e3-ba9d-29549bbb5449")
 		)
 		(pin "5"
-			(uuid "556e8a46-429e-4cd9-91f9-38fb0243c7d5")
+			(uuid "60a5d1e1-b1fc-4819-bf19-034ee2e5aa13")
 		)
 		(pin "6"
-			(uuid "c34669a3-cbce-4f05-a3d5-b47bb4e77ac1")
+			(uuid "968e110c-148a-4c62-b30b-b4a70d20e1f1")
 		)
 		(pin "7"
-			(uuid "1c25bd8e-5cbf-4ade-8b09-06b62386f513")
+			(uuid "9951cb63-e17e-4df4-9a2d-3ab89187a1d0")
 		)
 		(pin "8"
-			(uuid "41667330-dff2-4e36-8f9c-69b872ff84bf")
+			(uuid "ed5c70e2-195f-4e3c-ad41-a522677bc5d6")
 		)
 		(pin "9"
-			(uuid "1d9b1359-64ef-4c5e-8885-f2eb55d509ab")
+			(uuid "da48933e-ffa2-4b40-9b9b-72fc7220f777")
 		)
 		(pin "10"
-			(uuid "75138569-4eef-4922-b767-fbf3d41823a7")
+			(uuid "57344100-acd9-467b-8ca9-e14b7af7ac5d")
 		)
 		(pin "11"
-			(uuid "c421904d-711e-4041-9cde-f7dd3daa68b3")
+			(uuid "91a928a6-5cbe-4964-9b15-f453d7b1cbb5")
 		)
 		(pin "12"
-			(uuid "33d6c3a0-a309-4875-a1ff-5ea5c9b65f28")
+			(uuid "6dbb167f-9056-4bee-853e-2d9bdeaefbe7")
 		)
 		(pin "13"
-			(uuid "be57904c-29e8-4dba-b683-a0a3c247a7ed")
+			(uuid "be86117d-5d5a-4767-883e-32b82f9af0a7")
 		)
 		(pin "14"
-			(uuid "fe7961e8-9bf4-42e5-a172-fbecd98ba1d2")
+			(uuid "49f998fa-06f6-471d-9ac4-5085e4aed10f")
 		)
 		(pin "15"
-			(uuid "33b6ec33-8463-4ce4-95e3-384658811afe")
+			(uuid "23aaf3b8-b998-4b2d-a26a-d60f955a11f8")
 		)
 		(pin "16"
-			(uuid "eb0abb00-c5f3-4b66-b722-dff9944f6eb8")
+			(uuid "11a0e7c9-fdff-45d6-8342-5ffef4c2d4cc")
 		)
 		(pin "17"
-			(uuid "9d6f5d66-af7b-4600-b01d-023db4f5ec2f")
+			(uuid "68968ae8-9859-4484-90e0-8532113510cf")
 		)
 		(pin "18"
-			(uuid "e0735613-905b-430e-b169-acfae41539e0")
+			(uuid "d5b5243d-df53-401a-875d-9f58235dab0f")
 		)
 		(pin "19"
-			(uuid "c6ac6cea-0912-499c-a5ae-04ab6825b20c")
+			(uuid "7c74de07-6f05-49a5-b89f-39270e3e6164")
 		)
 		(pin "20"
-			(uuid "1007f633-13d8-4be0-a659-0f4184688de1")
+			(uuid "cc94c3b4-675e-400b-bbb4-2bf98de82e6c")
 		)
 		(pin "21"
-			(uuid "47210b5d-0e21-46fa-9ea5-48b3224bcb1f")
+			(uuid "2d6ae3f8-b50c-43b7-98a4-ae1209ee9712")
 		)
 		(pin "22"
-			(uuid "392b7562-8e52-4ce3-b541-fa01d42085c5")
+			(uuid "193d6dfd-3292-421c-a10b-0138f7d80ad9")
 		)
 		(pin "23"
-			(uuid "0dde6a70-b60c-44b7-89e5-d4ab8ea2c4ef")
+			(uuid "20f94f7a-5f5c-455c-8281-2ba93a9a9249")
 		)
 		(pin "24"
-			(uuid "8306e934-bdf7-4c2d-a275-bdc9a53db884")
+			(uuid "f548aba1-415c-4a2a-80bd-7ad20144fb70")
 		)
 		(pin "25"
-			(uuid "096efc73-679b-48c4-be89-ae1772cca906")
+			(uuid "c308b150-3e3e-4369-98f4-cd1626eecc0a")
 		)
 		(pin "26"
-			(uuid "bb46cfa4-7086-4100-8481-fad29cd038aa")
+			(uuid "5659bef9-e1fd-4977-abed-ac0d414ee7cf")
 		)
 		(pin "27"
-			(uuid "db6c3ecb-6732-41e9-bb3d-87333995f1bd")
+			(uuid "20019029-15d5-47a6-b9bc-4bbf4f21b25d")
 		)
 		(pin "28"
-			(uuid "b3f49466-0d8d-4866-97fc-939a9b4c4cce")
+			(uuid "1846bd96-44af-40c9-8146-9f99fa499bed")
 		)
 		(pin "29"
-			(uuid "110dc285-e3d5-4494-8fb1-1574f19369e8")
+			(uuid "13f0bffa-28f6-45f3-b73d-d2bf1961f120")
 		)
 		(pin "30"
-			(uuid "1ef06ae8-98d9-4166-be0f-d3aec5c4d143")
+			(uuid "d968779e-4ba4-4c64-8bd3-56bfa03fc813")
 		)
 		(pin "31"
-			(uuid "f3c7556e-661f-4de5-8df0-b67a8544243f")
+			(uuid "64fa5063-396b-4dea-8ac1-2c1512b6c29f")
 		)
 		(pin "32"
-			(uuid "d4b4576c-ea92-44e3-b92a-8ce853d5a0fd")
+			(uuid "a803ebdc-ba9c-432a-b105-c9a1511b940e")
 		)
 		(pin "33"
-			(uuid "c5cf3fc0-5ebf-46fb-95a8-9dff0be46a3b")
+			(uuid "83360b69-a3cb-4f7e-af05-a75187eaae71")
 		)
 		(pin "34"
-			(uuid "970c39dc-596b-415a-8947-a5d59a5a809b")
+			(uuid "bdea3342-569c-43fd-bdc0-6dd60eb71378")
 		)
 		(pin "35"
-			(uuid "984010b3-f13e-497c-8b70-4d3dfc65683e")
+			(uuid "a7317161-98b8-4ea1-b841-2f1935c646c8")
 		)
 		(pin "36"
-			(uuid "d07d1eb7-4d96-490e-9c1c-19a8ea94938f")
+			(uuid "de0e9ad1-7bcb-4329-9092-a0e87eb281f1")
 		)
 		(pin "37"
-			(uuid "6273b40e-ee64-4124-9cb9-03396b1a558f")
+			(uuid "00518799-b9e2-4774-89eb-c0d8ecfcdf38")
 		)
 		(pin "38"
-			(uuid "5dcc9121-362f-487a-bf58-dd4b2129d1da")
+			(uuid "dae48ca8-6728-4ad4-ac71-11d490d56474")
 		)
 		(pin "39"
-			(uuid "5201465c-529a-4c94-9a3e-9fb20c2dbc08")
+			(uuid "9ca891c5-91e0-4518-a10e-124eaaa8f09a")
 		)
 		(pin "40"
-			(uuid "ac57d84f-e055-43d5-9e6a-12adc179e686")
+			(uuid "1a83ed40-2e51-46aa-a872-857882f9bc01")
 		)
 		(pin "41"
-			(uuid "0143440f-e335-4c55-ba15-a3ac2a213297")
+			(uuid "c9565750-5fc0-4019-85b0-2059efcd4713")
 		)
 		(pin "42"
-			(uuid "92989ef3-5c00-4903-bed2-3121fc3b19a6")
+			(uuid "463bfdf4-b3a7-482c-8faa-c8ca7c830dc6")
 		)
 		(pin "43"
-			(uuid "314cdbfa-56df-4da3-9b71-2ae987ba8f61")
+			(uuid "34063cb1-dba4-47c0-ae6f-308b356e90fd")
 		)
 		(pin "44"
-			(uuid "9fa8b6ac-4987-41f8-88b7-2eaeb309283b")
+			(uuid "7f33785b-ba0c-4b46-8955-b66e13347785")
 		)
 		(pin "45"
-			(uuid "ad485a4c-c6b6-4315-b299-ab8c3b17f6e9")
+			(uuid "193eab72-2c18-4625-a6a5-075be5679b42")
 		)
 		(pin "46"
-			(uuid "4f7e2d16-d7fc-4bd9-a80c-9b132f8cccfa")
+			(uuid "8ac734fe-b1e2-4a4f-bc77-06948469771b")
 		)
 		(pin "47"
-			(uuid "1158ca98-6d89-4edc-a2b2-72c77533749a")
+			(uuid "420dde13-14b0-48fb-995a-8b05d1b0ca5e")
 		)
 		(pin "48"
-			(uuid "5b9b7f4c-4170-4c5e-9ce8-9a1314eada72")
+			(uuid "81bf1807-f85e-4272-bb20-43c287f98782")
 		)
 		(pin "49"
-			(uuid "e7a4ce86-1a69-4b20-aaf5-2d15ce66f4cc")
+			(uuid "2749b27d-2dfd-4a3b-bcd2-8f036b84cdae")
 		)
 		(pin "50"
-			(uuid "ca804886-070e-4f1a-bd54-c08d5b391c0d")
+			(uuid "be7bc713-75e9-4c10-88ce-fd7bbed1f34a")
 		)
 		(pin "51"
-			(uuid "497a4ec7-7898-4378-a3c4-df04fb6df9c8")
+			(uuid "2f0e5d8a-2eb5-45c4-a91f-46717f9819be")
 		)
 		(pin "52"
-			(uuid "196b8f34-f7a1-4e11-b191-e5a3f792f1e6")
+			(uuid "12dc2040-8a08-47da-906e-b3ffeeaae058")
 		)
 		(pin "53"
-			(uuid "13fe6c2e-8c87-46c1-a98b-2754dce59882")
+			(uuid "6ae53f56-282f-4850-97c5-d5e4c0be229e")
 		)
 		(pin "54"
-			(uuid "97c86cf9-170e-4ee7-ad7a-5b12a5f957ed")
+			(uuid "71d70581-6990-49aa-951b-8e9c903dedab")
 		)
 		(pin "55"
-			(uuid "9caa1011-5037-4e57-b8cc-4e50820e9dc5")
+			(uuid "ed2cb202-54f3-48dd-a00f-55c0e4721ebf")
 		)
 		(pin "56"
-			(uuid "b9d8a909-78d6-43d5-a1d5-188ac5c54275")
+			(uuid "abfbe842-67dc-43d7-8c17-8da30808692d")
 		)
 		(pin "57"
-			(uuid "21436535-660c-407a-b94c-2822a47ee8e7")
+			(uuid "0115e6c1-524b-4e32-b76d-036c8180ec11")
 		)
 		(pin "58"
-			(uuid "a98d3b57-ce2e-4858-b86d-e1e7b280fa77")
+			(uuid "76d33573-c8c5-4dbf-bf30-10977f555815")
 		)
 		(pin "59"
-			(uuid "361b3d08-03ff-48f5-adc1-6eb1c2c25554")
+			(uuid "34883880-e064-4da9-9b04-ad70b3fa52d0")
 		)
 		(pin "60"
-			(uuid "faa12654-253a-4c6c-9d4c-1bd2843cf460")
+			(uuid "631e9576-5384-43f0-8434-d902d276a977")
 		)
 		(pin "61"
-			(uuid "870cc690-eaea-48a5-806d-135a2df2f7bd")
+			(uuid "e13c73db-b275-4d0b-8a6a-1330abd3fab9")
 		)
 		(pin "62"
-			(uuid "211ee97a-8329-4e09-9f7a-91f9d232b026")
+			(uuid "0f215276-b8f4-4577-bb63-d8b3cef74a06")
 		)
 		(pin "63"
-			(uuid "7affa3ef-892a-4586-a130-305baab7f2db")
+			(uuid "dd1dde26-0bbe-49a7-9fe4-2a6ff6671360")
 		)
 		(pin "64"
-			(uuid "f6cd73f8-1218-4421-a216-7d9793d7c059")
+			(uuid "b84d1703-9b6a-4093-a809-a412d15e6248")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "U5")
 					(unit 1)
 				)
@@ -7084,14 +7084,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "d2400b34-71fd-4652-b37a-081119cb51bb")
+			(uuid "bfc37f41-12c2-402e-8116-76368b5cadc6")
 		)
 		(pin "2"
-			(uuid "f04f6633-bfe4-4b63-aedc-83126553950a")
+			(uuid "3dbc905c-bcb5-4e3f-bf21-38d5242941d3")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C56")
 					(unit 1)
 				)
@@ -7164,14 +7164,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "f3bf8f09-eae0-4cfd-b130-3fa0c7a10a1a")
+			(uuid "34ebcb3a-ce10-4948-9bbd-f62e279c27d8")
 		)
 		(pin "2"
-			(uuid "d1de218b-bd09-4b5a-820f-26fb1f0a7a8a")
+			(uuid "2df698d1-d5b1-462d-9115-138db3f9ca86")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C55")
 					(unit 1)
 				)
@@ -7244,11 +7244,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "01c90a89-7276-47e5-ad03-bdc8a2887349")
+			(uuid "74a81714-1bca-4ba8-be80-d7c163051f85")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR081")
 					(unit 1)
 				)
@@ -7320,11 +7320,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "bcfb9168-c322-49d7-9ad6-a1f5a1b877d6")
+			(uuid "b0b1a28b-1135-4080-be70-190d7df4e2a7")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR078")
 					(unit 1)
 				)
@@ -7397,11 +7397,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "dfe9a28d-8546-4734-9681-967e5c63e0fc")
+			(uuid "efd7b16b-2579-4ecd-bcf7-bef18482f156")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR079")
 					(unit 1)
 				)
@@ -7473,11 +7473,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "8d0f242f-0475-41bd-adba-03731f0395b8")
+			(uuid "f02eafa0-4052-4111-b7e0-a5b983be2c57")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR077")
 					(unit 1)
 				)
@@ -7550,14 +7550,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "6587cd95-703f-42d5-948b-ffc83f6c58c8")
+			(uuid "6d8b10da-81c1-432e-b770-d1b2e1bb4ee6")
 		)
 		(pin "2"
-			(uuid "1b0e9fc7-0ec1-4add-9f92-d26483efc53c")
+			(uuid "2ec2fd7a-5e68-4670-ba43-e52eab853c25")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C50")
 					(unit 1)
 				)
@@ -7630,14 +7630,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "681c029e-9268-4754-8390-a944fe4cf981")
+			(uuid "e3a5c14d-be15-477b-825e-943f1805a709")
 		)
 		(pin "2"
-			(uuid "80ec1037-2b27-4dcc-a3c6-20b963c22a74")
+			(uuid "7e14d47a-74ca-456d-b0d3-40fb2a405166")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C51")
 					(unit 1)
 				)
@@ -7710,11 +7710,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "b4e72354-64d0-4055-bada-e739d806968a")
+			(uuid "da2dbaaf-e9ae-420a-9cde-5e243bd21392")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR071")
 					(unit 1)
 				)
@@ -7787,11 +7787,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "4292e792-4ccc-41b1-9d49-7b00ab7c21c9")
+			(uuid "84ca7a88-d511-4389-9786-1a283f90b9c5")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR073")
 					(unit 1)
 				)
@@ -7864,14 +7864,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "1e22dc46-7d00-47da-a619-525461e842bc")
+			(uuid "ff6b33a5-eee9-41c0-bd22-13605bd3fdce")
 		)
 		(pin "2"
-			(uuid "7ac41f7d-ce0a-4bfa-b8fa-4c35128a5df3")
+			(uuid "acf5acac-6f56-47b1-bbf3-6d0954c209be")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C53")
 					(unit 1)
 				)
@@ -7944,14 +7944,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "3e4e947f-be2b-4b13-82f0-6e8df504b36a")
+			(uuid "9e24abc2-c8f6-4f27-af6e-b58e8717b5b9")
 		)
 		(pin "2"
-			(uuid "9802c9d7-039f-44f8-8b2a-05884f59885d")
+			(uuid "a58121dd-29bd-4687-9290-e347c27e8e7f")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C54")
 					(unit 1)
 				)
@@ -8023,11 +8023,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "0a77fc89-d134-407a-baa1-e573a75c4163")
+			(uuid "12fc0a86-f0a6-44b5-bef8-bad92a5f909e")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR080")
 					(unit 1)
 				)
@@ -8100,11 +8100,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "a0959046-2dbe-447e-9993-84ddb7975054")
+			(uuid "e24989fd-ed12-43c0-8e5a-7e293c2941d2")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR076")
 					(unit 1)
 				)
@@ -8177,14 +8177,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "21062f87-94e3-4623-8bf6-f34f8f51ffcc")
+			(uuid "75622452-8b28-410a-84fd-e70975d3de17")
 		)
 		(pin "2"
-			(uuid "b437b40d-202c-4dff-ae47-b14304a17907")
+			(uuid "8f2fcc5b-efe4-42b9-ab68-f189a755573f")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C52")
 					(unit 1)
 				)
@@ -8255,23 +8255,23 @@
 			)
 		)
 		(pin "1"
-			(uuid "609ea9bd-d763-44a4-89a1-779f70f138ba")
+			(uuid "2913ebbd-dd98-4202-b9fb-5775aa7a0aca")
 		)
 		(pin "2"
-			(uuid "18edb918-8f23-46ea-bd7a-8fcfb8b5b320")
+			(uuid "7f8be8c3-95f4-4f06-9c5b-31aa20d02601")
 		)
 		(pin "3"
-			(uuid "c829c83a-228f-4ae3-8ff5-239e310b36f1")
+			(uuid "550c8282-7af0-4fcb-b476-cd2489b8ca6f")
 		)
 		(pin "4"
-			(uuid "03999df9-5a57-4f8f-a896-2a4966f61457")
+			(uuid "03aebde2-0932-4b53-8f1b-69af522d0db7")
 		)
 		(pin "5"
-			(uuid "5f50df8f-de80-41e1-a47c-9329cfd25033")
+			(uuid "b2bf2e72-ca8c-4714-bf42-18bab423d297")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "P5")
 					(unit 1)
 				)
@@ -8343,11 +8343,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "f6da249f-afc8-4c7e-9e36-7a2ff68fade2")
+			(uuid "0270947a-3cd8-4734-8e6d-7156bbe43244")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR074")
 					(unit 1)
 				)
@@ -8420,11 +8420,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "f6ed50a4-b6fa-437b-b690-bccc0f1a5ec6")
+			(uuid "6a13b290-f0ad-44b4-8eab-972efe64d419")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR075")
 					(unit 1)
 				)
@@ -8497,14 +8497,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "6091e9c1-e5ea-4eda-9116-26917b08574e")
+			(uuid "7d7eb989-f562-4131-928d-5db49b45fbdf")
 		)
 		(pin "2"
-			(uuid "943abb82-26b9-4a6f-8b4e-38e738e2d548")
+			(uuid "77c1de79-8f3a-4322-aa74-5aba7acf16a8")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C45")
 					(unit 1)
 				)
@@ -8577,14 +8577,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "37269624-97f4-4a80-97bf-0cd8d656d6da")
+			(uuid "2ae12e5e-63d3-46e6-a745-69acf2cf29b6")
 		)
 		(pin "2"
-			(uuid "028fe4ad-520c-461f-a191-1753139e7d1a")
+			(uuid "b2ec434a-4dc0-40e3-aff0-442eede5db83")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C46")
 					(unit 1)
 				)
@@ -8657,14 +8657,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "a955c1e7-6ae9-4c0e-8726-72d010346502")
+			(uuid "aed724f9-7f48-45be-9df5-cad34323a351")
 		)
 		(pin "2"
-			(uuid "88bc9bc7-7347-453d-ae79-6fd685a226da")
+			(uuid "0241ff99-0973-44f8-a967-95780515f520")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C49")
 					(unit 1)
 				)
@@ -8737,11 +8737,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "bcda0e86-81e9-458e-b7b3-ab39c977f975")
+			(uuid "2a2562b0-cb85-4978-aefe-50291766dcd3")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR072")
 					(unit 1)
 				)
@@ -8813,11 +8813,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "fe8fe443-b6cf-4ebc-80a7-f8028db58225")
+			(uuid "5c717e95-a5e4-4de8-8bb8-2c792108e5ea")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "#PWR070")
 					(unit 1)
 				)
@@ -8890,14 +8890,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "6aba877a-9d88-4db1-b84c-0c833c87b5c5")
+			(uuid "ea1a570a-d597-4bf0-8b52-0a208464a908")
 		)
 		(pin "2"
-			(uuid "459322c3-31a8-4248-93a4-a448fb89f9c6")
+			(uuid "c33ef3ec-0b9b-4161-8775-a6dcf3782eae")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C47")
 					(unit 1)
 				)
@@ -8970,14 +8970,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "5107552c-a690-4754-8c38-3cdd4f452181")
+			(uuid "c342e4e4-d2bb-4ccf-8250-6832a59317b8")
 		)
 		(pin "2"
-			(uuid "2b3ae0ce-8c1a-4a72-8ef0-2487b29db563")
+			(uuid "5506a33d-efd4-4b78-8643-b61481484054")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "C48")
 					(unit 1)
 				)
@@ -9059,14 +9059,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "65f3515f-8502-41da-b030-a83942e60e5c")
+			(uuid "2c199d2e-c3a8-4450-a293-90a7b7754abb")
 		)
 		(pin "2"
-			(uuid "e679f659-46a0-40c4-a9b9-a61fbd206d66")
+			(uuid "a4f2bb64-1c41-4f48-a530-0a8dab863dd1")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "X1")
 					(unit 1)
 				)
@@ -9137,38 +9137,38 @@
 			)
 		)
 		(pin "1"
-			(uuid "3da47350-6d9f-4bf8-a7ac-cef8ca1329e9")
+			(uuid "8615536d-fd34-4a54-aeda-660a8e06ce76")
 		)
 		(pin "2"
-			(uuid "37452db7-3be2-4eb8-b6ed-301455c4b142")
+			(uuid "5260e91f-9c76-4c74-b745-6650c3c61830")
 		)
 		(pin "3"
-			(uuid "863e6974-ffba-47e4-93d2-8a69e40800c9")
+			(uuid "639ae38a-d0dc-4e9a-8562-f8498e9b7e9e")
 		)
 		(pin "4"
-			(uuid "2a3e9b4c-edda-49fc-8f21-4f69b7dd5056")
+			(uuid "6974da39-7f72-4361-9f17-1ae6dc085ba4")
 		)
 		(pin "5"
-			(uuid "00259956-990a-4564-b8bb-c51417d20aea")
+			(uuid "d0442edd-ab09-4f16-9e3b-c170b8e9ee97")
 		)
 		(pin "6"
-			(uuid "55f95a93-7d13-487b-a55f-cd9fa6554ce8")
+			(uuid "7fc01bfc-5cd6-437e-9c6a-6c0e07565776")
 		)
 		(pin "7"
-			(uuid "5b2fdd58-7e17-494e-abb3-ed191c387f1a")
+			(uuid "77cc2b9d-454a-4a34-ad45-4ce00abd8fbf")
 		)
 		(pin "8"
-			(uuid "3345ed90-fbec-4284-b432-110463b7bd75")
+			(uuid "f748b538-2b52-407d-85e4-835bb6b14f29")
 		)
 		(pin "9"
-			(uuid "a8bc726d-a714-432e-91bb-476057dbc387")
+			(uuid "16d4cf99-a917-4b9e-a730-c5feb28b4874")
 		)
 		(pin "10"
-			(uuid "12118b03-0f3f-4cb3-9996-da87508b8038")
+			(uuid "ac41e35b-abba-440e-b347-14515581f41d")
 		)
 		(instances
 			(project "Cheap FOCer 2 60mm"
-				(path "/8693461a-2b3c-456a-b5db-886cde102119/00000000-0000-0000-0000-000053f7501a"
+				(path "/8693461a-2b3c-456a-b5db-886cde102119/aa4c4802-65a8-4066-8aef-359cc7cd6f36/e0abce7c-8334-41f1-bfb2-a36dae094a8b"
 					(reference "J5")
 					(unit 1)
 				)
