@@ -1206,7 +1206,7 @@
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
-    "used_designators": "",
+    "used_designators": "X1-2,R1-144,Q1-12,#FLG1-4,#PWR1-192,C1-134,NEG3-4,F1-6,H1-20,USB1-2,J1-12,NT1-12,U1-12,D1-12,NTC1-2,L1-2,P1-10,POS1-2",
     "variants": []
   },
   "sheets": [],
